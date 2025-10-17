@@ -1,3 +1,2 @@
 # practical-5
-<img width="1342" height="349" alt="Screenshot 2025-10-17 203124" src="https://github.com/user-attachments/assets/35d36905-f25d-454b-9242-baf34f9fb0e9" />
-
+<img width="1265" height="247" alt="Screenshot 2025-10-17 203244" src="https://github.com/user-attachments/assets/33065010-d348-413d-a12e-279c87ad7043" />
